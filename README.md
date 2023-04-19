@@ -5,10 +5,10 @@
 - QB-CORE: https://github.com/qbcore-framework/qb-core
 ### Information
 ***
-- I decided to make good base for qb-core
+- I decided to a make good base for qb-core
 
 ### Why?
-- Cause Triggers can be dangerous sometimes leaves it backdoor on the server.
+- Cause Triggers can be dangerous sometimes leaves a backdoor on the server.
 
 - Exports Are easy to use ('not all the time')
 
