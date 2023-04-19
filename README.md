@@ -14,7 +14,7 @@ Exports Are easy to use ('not all the time')
 
 ### Updates Info
 
- - I will constantly update this thing it will never be outdated it will be updated with new features
+ - I will constantly update this thing it will never be -  - outdated it will be updated with new features
 
 ***
 
