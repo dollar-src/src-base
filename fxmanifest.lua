@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-version "0.9"
+version "1.0"
 
 shared_scripts {
     'config.lua'
