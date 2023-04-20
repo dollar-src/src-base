@@ -20,4 +20,3 @@ client_scripts {
     'client/*.lua'
 }
 
--- discord
