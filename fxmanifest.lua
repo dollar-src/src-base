@@ -20,3 +20,4 @@ client_scripts {
     'client/*.lua'
 }
 
+D
