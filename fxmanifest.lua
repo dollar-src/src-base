@@ -8,15 +8,14 @@ game 'gta5'
 
 version "1.0"
 
+
 shared_scripts {
     'shared/*.lua'
 }
-
 server_scripts {
+    'shared/api.lua',
 	'server/*.lua'
 } 
-
 client_scripts {
     'client/*.lua'
 }
-
