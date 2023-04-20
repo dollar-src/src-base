@@ -19,3 +19,24 @@ server_scripts {
 client_scripts {
     'client/*.lua'
 }
+
+server_exports  {
+    'GetPlayer',
+    'GetPlayerIndex',
+    'AddMoney',
+    'RemoveMoney',
+    'HasMoney',
+    'Notify',
+    'CreateCallback',
+    'GetIdentifier',
+    'GetJob',
+    'GetItem',
+    'GetItemCount',
+    'AddItem',
+    'RemoveItem',
+    'RandomInt',
+    'RandomStr',
+    'IsMod',
+    'Print',
+    'IsAdmin'
+}
