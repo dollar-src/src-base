@@ -1,0 +1,35 @@
+Config = {}
+
+Config.Webhook = {
+    username = 'SOURCE LOG',
+    Colors = {
+        ['default'] = 14423100,
+        ['black'] = 0,
+        ['white'] = 16777215,
+        ['red'] = 16711680,
+        ['green'] = 65280,
+        ['blue'] = 255,
+        ['yellow'] = 16776960,
+        ['orange'] = 16744192,
+        ['purple'] = 8388736,
+        ['gray'] = 8421504,
+        ['lightgray'] = 13882323,
+        ['darkgray'] = 3421236,
+        ['brown'] = 10824234,
+        ['tan'] = 16569898,
+        ['teal'] = 32768,
+        ['lightblue'] = 9474192,
+        ['darkblue'] = 255,
+        ['darkgreen'] = 22016,
+        ['olive'] = 8421376,
+        ['lightgreen'] = 9471507,
+        ['magenta'] = 16711935,
+        ['pink'] = 16761035,
+        ['salmon'] = 16416882,
+        ['coral'] = 16744272,
+        ['lavender'] = 16751052,
+        ['khaki'] = 15787660,
+        ['gold'] = 16766720,
+        ['silver'] = 12632256,
+    }
+}

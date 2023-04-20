@@ -9,7 +9,7 @@ game 'gta5'
 version "1.0"
 
 shared_scripts {
-    'config.lua'
+    'shared/*.lua'
 }
 
 server_scripts {
