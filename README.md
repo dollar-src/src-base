@@ -85,7 +85,7 @@
     local Player = QBCore.Functions.GetPlayer(source)
     exports['src-base']:GetIdentifier(Player)
     
-    result = 'CITIZENID"
+    result = citizenid
 ```
 - IsAdmin
  ```lua
