@@ -29,6 +29,16 @@
     local Player = QBCore.Functions.GetPlayer(source)
     exports['src-base']:AddItem(Player, item , amount)
 ```
+- AddItems
+ ```lua
+    local Player = QBCore.Functions.GetPlayer(source)
+    local items = {
+        ["weapon_pistol"] = 1,
+        ["water"] = 1,
+        ["lockpick"] = 3,
+    }
+    exports['src-base']:AddItems(Player, items)
+```
 - RemoveItem
  ```lua
     local Player = QBCore.Functions.GetPlayer(source)
