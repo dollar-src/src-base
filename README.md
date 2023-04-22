@@ -136,3 +136,25 @@
     }
 ```
 
+- SetJob
+ ```lua
+    exports['src-base']:SetJob(player, job , grade)
+```
+
+- GetCharInfo
+ ```lua
+    exports['src-base']:GetCharInfo(Player)
+    result = {
+    firstname: string
+    account: string
+    birthdate: string 
+    gender: int 
+    cid: int
+    lastname: 
+    nationality: string
+    phone: string 
+    }
+```
+
+
+
