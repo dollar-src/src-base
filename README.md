@@ -156,5 +156,7 @@
     }
 ```
 
-
-
+- GenPlate
+ ```lua
+    exports['src-base']:GenPlate()
+```
