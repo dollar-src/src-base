@@ -37,6 +37,12 @@ server_exports  {
     'RandomStr',
     'IsMod',
     'AddItems',
+    'SetJob',
+    'GetCharInfo',
+    'GenPlate',
     'IsAdmin'
 }
 
+exports {
+    'Print'
+}
