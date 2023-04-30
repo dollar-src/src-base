@@ -26,7 +26,6 @@ server_exports  {
     'AddMoney',
     'RemoveMoney',
     'HasMoney',
-    'Notify',
     'CreateCallback',
     'GetIdentifier',
     'GetJob',
@@ -37,6 +36,13 @@ server_exports  {
     'RandomInt',
     'RandomStr',
     'IsMod',
-    'Print',
+    'AddItems',
+    'SetJob',
+    'GetCharInfo',
+    'GenPlate',
     'IsAdmin'
+}
+
+exports {
+    'Print'
 }
