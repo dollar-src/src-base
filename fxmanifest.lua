@@ -40,6 +40,8 @@ server_exports  {
     'SetJob',
     'GetCharInfo',
     'GenPlate',
+    'GiveMoneyPlayers',
+    'GiveItemPlayers',
     'IsAdmin'
 }
 
